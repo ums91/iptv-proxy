@@ -1,1 +1,2 @@
-### iptv-proxy for educational purposes only
+### iptv-proxy
+#### for educational purposes only
